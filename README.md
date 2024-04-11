@@ -51,4 +51,4 @@ My journey in the Tech world has led me to develop a passion for cybersecurity, 
 
 ## Projects
 - [Security Audit Project](https://github.com/PMW25/Security-Audit)
-- SOC Automation Project
+- [NIST/CSF Project](https://github.com/PMW25/NIST-Cybersecurity-Framework-Project)
