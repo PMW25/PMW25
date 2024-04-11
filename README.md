@@ -50,5 +50,5 @@ My journey in the Tech world has led me to develop a passion for cybersecurity, 
 </div>
 
 ## Projects
-- Detection Lab
+- Security Audit Project
 - SOC Automation Project
