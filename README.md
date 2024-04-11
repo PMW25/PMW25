@@ -50,5 +50,5 @@ My journey in the Tech world has led me to develop a passion for cybersecurity, 
 </div>
 
 ## Projects
-- Security Audit Project
+- [Security Audit Project](https://github.com/PMW25/Security-Audit)
 - SOC Automation Project
