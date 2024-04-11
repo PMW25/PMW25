@@ -19,7 +19,7 @@ My journey in the Tech world has led me to develop a passion for cybersecurity, 
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Python Programming                 | SOC Automation Lab|
 | SQL | SOC Automation Lab|
-| Linux | SOC Automation Lab|
+| Linux | [Linux Project](https://github.com/PMW25/Linux-Project)|
 ## Tools
 
 
