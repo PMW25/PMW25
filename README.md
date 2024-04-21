@@ -11,15 +11,15 @@ My journey in the Tech world has led me to develop a passion for cybersecurity, 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis         | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Intrusion Detectection System         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Python Programming                 | SOC Automation Lab|
-| SQL | SOC Automation Lab|
-| Linux | [Linux Project](https://github.com/PMW25/Linux-Project)|
+| Skill                                         
+|-----------------------------------------------
+| SIEM Implementation and Log Analysis         
+| Network Traffic Monitoring and Attack Detection 
+| Intrusion Detectection System         
+| Incident Response Planning and Execution      
+| Python Programming                 
+| SQL 
+| Linux 
 ## Tools
 
 
