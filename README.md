@@ -1,4 +1,4 @@
-# Hi there, I'm Phillip 👋 
+# Hi there, I'm Phillip 
 
 
 
