@@ -16,13 +16,13 @@
 
 ---
 
-### Connect with me:
+### 🤳🏽 Connect with me:
 
 <a href="https://linkedin.com/in/PWOODS12"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
-### Languages and Tools:
+### 👨🏽‍💻🛠️Languages and Tools:
 <div>
 <a href="https://tryhackme.com/p/PHILNYETECHGUY"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
@@ -48,7 +48,7 @@
 
 ---
 
-## Certifications
+##📜 Certifications
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 
