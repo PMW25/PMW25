@@ -10,7 +10,7 @@
 
 
 - 👨🏽‍🏫 I’m currently learning everything 😵‍💫
-- 👯 I’m looking to collaborate with other like-minded people
+-  I’m looking to collaborate with other like-minded people
 - 🥅 2024+ Goals: Continuing learning this diverse field
 - ⚡ Fun fact: I'm a huge sports fanatic. 
 
