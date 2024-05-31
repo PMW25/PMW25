@@ -62,7 +62,7 @@
 2. 💪 Opened PR [#1261](https://github.com/syntaxfm/website/pull/1261) in [syntaxfm/website](https://github.com/syntaxfm/website)
 3. 🗣 Commented on [#1235](https://github.com/shadcn-ui/ui/issues/1235#issuecomment-1679215686) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 4. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+
 <!--END_SECTION:activity-->
 
 </details>
