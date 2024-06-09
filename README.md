@@ -36,7 +36,7 @@
 
 ---
 
-### 📺 Projects
+### 👷🏽‍♂️🔨 Projects
 - [Security Audit Project](https://github.com/PMW25/Security-Audit)
 - [NIST/CSF Project](https://github.com/PMW25/NIST-Cybersecurity-Framework-Project)
 - [Linux Project](https://github.com/PMW25/Linux-Project)
