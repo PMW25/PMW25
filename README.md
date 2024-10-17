@@ -2,8 +2,7 @@
 
 
 
-👋🏽 welcome to my Github! I'm a lab scientist 🔬👨🏽‍🔬 thats aspiring to join the cybersecurity aspects of life. When i'm not protecting patient's lives from evil pathogens and organisms on a day to day basis, i'm usually a 🛡️👨🏽‍💻 Security Analyst Enthusiast. I also enjoy python 🐍 & i'm exploring cloud tech ☁️ as well.
-
+👋🏽 welcome to my Github! I'm a lab scientist 🔬👨🏽‍🔬 thats aspiring to join the cybersecurity aspects of life. When i'm not protecting patient's lives from evil pathogens and organisms on a day to day basis, i'm usually a 🛡️👨🏽‍💻 Security Analyst Enthusiast.
 ---
 
 
@@ -12,7 +11,7 @@
 - 👨🏽‍🏫 I’m currently learning everything 😵‍💫
 -  I’m looking to collaborate with other like-minded people
 - 🥅 2024+ Goals: Continuing learning this diverse field
-- ⚡ Fun fact: I'm a huge sports fanatic. 
+
 
 ---
 
