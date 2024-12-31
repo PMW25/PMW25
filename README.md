@@ -48,7 +48,7 @@
 
 ---
 
-##📜 Certifications
+### 📜 Certifications
 
 - COMPTIA Security +
 
