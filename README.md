@@ -50,7 +50,7 @@
 
 ##📜 Certifications
 
-Security +
+- COMPTIA Security +
 
 ---
 
