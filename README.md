@@ -3,7 +3,7 @@
 
 
 
-I am a Medical Laboratory Scientist 👨🏽‍🔬 with a profound interest in technology and a dedication to solving complex problems.
+I'm a Medical Laboratory Scientist 👨🏽‍🔬 with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
