@@ -11,11 +11,11 @@ Hi, I’m Phillip, a security operations enthusiast with a passion for digging i
 My journey through the Google cybersecurity program has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
-## Projects
-- Keylogger remote Lab
-- SOC Home Lab
-- Email Anaysis Phishing Project
-
+## 🛠️Projects
+- [Remote Keylogger Lab](https://github.com/PMW25/Python-Remote-Keylogger-)
+- [Basic SOC Home Lab](https://github.com/PMW25/SOC-Home-Lab)
+- [Email Anaysis Phishing Project](https://github.com/PMW25/Email-Analysis-Phishing-)
+- [HoneyPot & SOC Lab](https://github.com/PMW25/HoneyPot-SIEM-Lab)
 
 
 ## Tools
