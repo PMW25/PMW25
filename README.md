@@ -3,7 +3,7 @@
 
 
 
-I'm a Medical Laboratory Scientist 👨🏽‍🔬 with a profound interest in technology and a dedication to solving complex problems.
+Hi, I’m Phillip, a security operations enthusiast with a passion for digging into logs, chasing down anomalies, and turning alerts into actionable intelligence. My focus is on defending systems, understanding adversary behavior, and helping organizations stay resilient against cyber threats.
 
 ## Objective
 
