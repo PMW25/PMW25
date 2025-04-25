@@ -7,9 +7,7 @@ Hi, I’m Phillip, a security operations enthusiast with a passion for digging i
 
 ## Objective
 
-
-My journey through the Google cybersecurity program has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+Detail-oriented medical lab scientist transitioning into cybersecurity, leveraging a strong foundation in data integrity, analytical problem-solving, strong analytical thinking, and precision under pressure. Recently earned the CompTIA Security+ certification and completed the Google Cybersecurity Certificate, with ongoing studies toward CySA+. Eager to bring a clinical mindset to digital defense in an entry-level cybersecurity role, with a focus on threat analysis, incident response, and system protection.
 
 ## 🛠️Projects
 - [Remote Keylogger Lab](https://github.com/PMW25/Python-Remote-Keylogger-)
