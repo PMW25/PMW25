@@ -11,6 +11,13 @@ Hi, I’m Phillip, a security operations enthusiast with a passion for digging i
 My journey through the Google cybersecurity program has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
+## Projects
+- Keylogger remote Lab
+- SOC Home Lab
+- Email Anaysis Phishing Project
+
+
+
 ## Tools
 
 
@@ -39,9 +46,6 @@ My journey through the Google cybersecurity program has led me to develop a pass
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Keylogger remote Lab
-- SOC Home Lab
-- Email Anaysis Phishing Project
+
  
   
