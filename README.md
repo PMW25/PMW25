@@ -3,7 +3,7 @@
 
 ## 🎖️Objective
 
-Detail-oriented medical lab scientist transitioning into cybersecurity, leveraging a strong foundation in data integrity, analytical problem-solving, strong analytical thinking, and precision under pressure. Recently earned the CompTIA Security+ certification and completed the Google Cybersecurity Certificate, with ongoing studies toward CySA+. Eager to bring a clinical mindset to digital defense in an entry-level cybersecurity role, with a focus on threat analysis, incident response, and system protection.
+Detail-oriented medical lab scientist transitioning into cybersecurity, leveraging a strong foundation in data integrity, analytical problem-solving, strong analytical thinking, and precision under pressure. Recently earned the CompTIA Security+ & CySA+ certification and completed the Google Cybersecurity Certificate. Eager to bring a clinical mindset to digital defense in an entry-level cybersecurity role, with a focus on threat analysis, incident response, and system protection.
 
 ## 🛠️Projects
 - 🔐 [Remote Keylogger Lab](https://github.com/PMW25/Python-Remote-Keylogger-)
@@ -38,6 +38,7 @@ Detail-oriented medical lab scientist transitioning into cybersecurity, leveragi
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CySA+-f21c1c.svg?style=for-the-badge" alt="badge" /> 
 </div>
 
 
