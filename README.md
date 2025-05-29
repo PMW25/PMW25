@@ -8,7 +8,7 @@ Detail-oriented medical lab scientist transitioning into cybersecurity, leveragi
 ## 🛠️Projects
 - 🔐 [Remote Keylogger Lab](https://github.com/PMW25/Python-Remote-Keylogger-)
 - 🏡 [Basic SOC Home Lab](https://github.com/PMW25/SOC-Home-Lab)
-- 📨 [Email Anaysis Phishing Project](https://github.com/PMW25/Email-Analysis-Phishing-)
+- 📨 [Email Analysis Phishing Project](https://github.com/PMW25/Email-Analysis-Phishing-)
 - 🍯[HoneyPot & SOC Lab](https://github.com/PMW25/HoneyPot-SIEM-Lab)
 
 
